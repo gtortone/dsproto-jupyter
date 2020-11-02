@@ -11,6 +11,15 @@ Included Python libraries:
 - recordtype 
 - lmfit
 - pandas
+- numericalunits
+- numba
+- lz4
+- cython
+- mpmath
+- sympy
+- astropy
+- keras
+- sklearn
 
 # Deployment
 
